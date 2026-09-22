@@ -41,7 +41,7 @@ module.exports = {
     '*<:Design_sans_titre__5_removebgpre:1552020071902093345> Cliquez ci-dessous pour ouvrir le formulaire d\'identification.*',
   INTRO_COLOR: '#1c2938',
   INTRO_FOOTER: '<:Insigne_GIGN:1551924487270961262> - Gendarmerie Nationale — GIGN',
-  INTRO_BUTTON_LABEL: '🪪 Commencer l\'identification',
+  INTRO_BUTTON_LABEL: '📄 Commencer l\'identification',
 
   // --- Formulaire (modale Discord) ---------------------------------------------
   MODAL_TITLE: 'Identification — GIGN',
@@ -62,7 +62,7 @@ module.exports = {
   NICKNAME_FORMAT: '{nom} | {nigend}', // devient le nouveau pseudo de la personne
 
   // --- Message de confirmation (visible uniquement par la personne) --------
-  CONFIRM_TITLE: '🪖 Intégration confirmée — GIGN',
+  CONFIRM_TITLE: ' <:Insigne_GIGN:1551924487270961262> INTEGRATION CONFIRME — GIGN',
   CONFIRM_MESSAGE:
     'Identité enregistrée : **{prenom} {nom}**\n' +
     'Votre **NIGEND** a été généré : **{nigend}**\n\n' +
