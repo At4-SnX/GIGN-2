@@ -32,9 +32,9 @@ module.exports = {
   INTRO_TITLE: '<:Insigne_GIGN:1551924487270961262> - PROCEDURE D\'IDENTIFICATION — GIGN',
   INTRO_MESSAGE:
     '## <:Blue_fleche:1551924312498241616> Bienvenue dans la procédure d\'identification du **GIGN**.\n\n' +
-    'Cette étape permet d\'enregistrer votre identité RP et de vous attribuer votre matricule **NIGEND**, ' +
+    '> Cette étape permet d\'enregistrer votre identité RP et de vous attribuer votre matricule **NIGEND**, ' +
     'qui remplacera votre pseudo sur ce serveur.\n\n' +
-    '<:Design_sans_titre__5_removebgpre:1552020071902093345> **Clause de confidentialité :** > en poursuivant, vous reconnaissez que les opérations, informations et ' +
+    '- **Clause de confidentialité :** en poursuivant, vous reconnaissez que les opérations, informations et ' +
     'procédures internes de l\'unité sont strictement confidentielles. Toute divulgation non autorisée, à ' +
     'l\'intérieur comme à l\'extérieur du serveur, pourra entraîner des sanctions disciplinaires immédiates ' +
     'pouvant aller jusqu\'à l\'exclusion.\n\n' +
